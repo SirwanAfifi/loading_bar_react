@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100" height="1" fill="#E9ECEF"/>
+    <g id="progress">
+        <rect height="1" fill="#FFBC26"/>
+    </g>
+</svg>
